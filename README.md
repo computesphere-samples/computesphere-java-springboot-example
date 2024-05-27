@@ -68,7 +68,7 @@ cd computesphere-java-springboot-example
 ./gradlew bootRun
 ```
 
-This runs the server on `localhost:3000`.
+This runs the server on `localhost:8080`.
 
 ## Deploy to ComputeSphere
 
